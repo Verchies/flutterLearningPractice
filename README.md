@@ -1,6 +1,7 @@
 # tahmin_et_app
 
 A new Flutter project.
+This is a practice I made, for make myself better on Flutter.
 
 ## Getting Started
 
